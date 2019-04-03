@@ -4,3 +4,4 @@ private.pem
 *.swp
 build
 .idea
+.DS_Store
