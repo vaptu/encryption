@@ -1,0 +1,6 @@
+secret
+source
+private.pem
+*.swp
+build
+.idea
